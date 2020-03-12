@@ -1,12 +1,12 @@
 # Site
 repository: piabenaud/piabenaud.github.io
 #favicon: images/favicon.ico
+
 darkmode: true
 
 # Personal info
 name: Dr Pia Benaud    
 title: Postdoctoral Research Associate
-address: Geography, College of Life and Environmental Sciences, University of Exeter
 email: P.Benaud@exeter.ac.uk
 website: http://geography.exeter.ac.uk/staff/index.php?web_id=Pia_Benaud
 
