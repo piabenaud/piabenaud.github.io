@@ -1,10 +1,29 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  name: Exeter University
+  dates: 2018
+  qualification: PhD Physical Geography
+  #quote: >
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  description: | # this will include new lines to allow paragraphs
+    **Thesis:** *Exploring the multiple techniques available for developing an understanding of soil erosion in the United Kingdom.*
+    **Supervisors:** Professor Richard Brazier, Professor Timothy Quine and Assoc. Professor Karen Anderson. 
+    **Funded by:** Defra SP1311
+
+- layout: left
+  name: Griffith University
+  dates: 2010
+  qualification: Griffith School of Environment Honours Program
+  #quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Supervised research project within an academic and industry setting. Dissertation title: *A comparative study of vegetation performance on landfill phytocovers in Australia* **(1st Class Hons.)**.
+
+- layout: left
+  name: Griffith University
+  dates: 2009
+  qualification: BSc. Environment
+  #quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Majoring in Natural Resource Science, with year at University of East Anglia. 
+    Courses studied included: land degradation and catchment management, ecological theory and practice, plant diversity, environmental chemistry, soils and geomorphology, hydrology, and environmental economics.
