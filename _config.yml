@@ -1,9 +1,10 @@
 # Site
-#repository: sproogen/resume-theme
+repository: piabenaud/piabenaud.github.io
 #favicon: images/favicon.ico
+darkmode: true
 
 # Personal info
-name: Pia Benaud    
+name: Dr Pia Benaud    
 title: Postdoctoral Research Associate
 address: Geography, College of Life and Environmental Sciences, University of Exeter
 email: P.Benaud@exeter.ac.uk
@@ -41,9 +42,10 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: Technical skills and competencies
+more_title: Technical skills and competencies
 more_content: | # this will include new lines to allow paragraphs
     **Fieldwork and Laboratory Analysis**
+    
     Over 10 years’ experience conducting environmental research within an academic setting including
     - Fieldwork in a wide-range of challenging locations, including upland and tropical climates.
     - Requisition, installation and maintenance of field equipment.
@@ -62,6 +64,7 @@ more_content: | # this will include new lines to allow paragraphs
     - Terrestrial LiDAR.
     - Airborne LiDAR.
     - Differential GPS survey.
+    
     I apply this data to quantify structural change in micro- to catchment-scale applications using
     - Precision and uncertainty analysis.
     - Data processing software, including Agisoft - PhotoScan, CloudCompare, Golden Software - Surfer, SfMgeoref, R, python, ArcGIS Pro and Leica – Cyclone.
