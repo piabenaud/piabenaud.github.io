@@ -43,42 +43,42 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Technical skills and competencies
 more_content: | # this will include new lines to allow paragraphs
-**Fieldwork and Laboratory Analysis**
-Over 10 years’ experience conducting environmental research within an academic setting including
-- Fieldwork in a wide-range of challenging locations, including upland and tropical climates.
-- Requisition, installation and maintenance of field equipment.
-- Closed-chamber greenhouse gas emission measurements (LiCOR LI-8100A & LI-8150, PP Systems EGM-4, LosGatos Research UGGA).
-- Vegetation identification and survey, including SW upland vegetation and Sphagnum sp.
-- Destructive vegetation surveys, including biomass, LAI and root structure.
-- Soil erosion experiments under simulated rainfall.
-- Soil sampling and analysis (particle size, bulk density, soil moisture, saturated hydraulic conductivity, organic matter, heavy metals digestion and ICP-OES).
-- Water sampling and analysis (pH, suspended sediment, dissolved organic carbon, colour).
-- Collection and analysis of hydrological data using data loggers (HOBO, Impress, ISCO).
-- Operation of telemetry networks (ADCON) and programming automated instrumentation.
+    **Fieldwork and Laboratory Analysis**
+    Over 10 years’ experience conducting environmental research within an academic setting including
+    - Fieldwork in a wide-range of challenging locations, including upland and tropical climates.
+    - Requisition, installation and maintenance of field equipment.
+    - Closed-chamber greenhouse gas emission measurements (LiCOR LI-8100A & LI-8150, PP Systems EGM-4, LosGatos Research UGGA).
+    - Vegetation identification and survey, including SW upland vegetation and Sphagnum sp.
+    - Destructive vegetation surveys, including biomass, LAI and root structure.
+    - Soil erosion experiments under simulated rainfall.
+    - Soil sampling and analysis (particle size, bulk density, soil moisture, saturated hydraulic conductivity, organic matter, heavy metals digestion and ICP-OES).
+    - Water sampling and analysis (pH, suspended sediment, dissolved organic carbon, colour).
+    - Collection and analysis of hydrological data using data loggers (HOBO, Impress, ISCO).
+    - Operation of telemetry networks (ADCON) and programming automated instrumentation.
 
-**Remote and Proximal Sensing, Geospatial Analysis**
-I have a strong understanding of the application, uncertainties and limitations of
-- Structure-from-Motion Photogrammetry, including close-range and UAV data.
-- Terrestrial LiDAR.
-- Airborne LiDAR.
-- Differential GPS survey.
-I apply this data to quantify structural change in micro- to catchment-scale applications using
-- Precision and uncertainty analysis.
-- Data processing software, including Agisoft - PhotoScan, CloudCompare, Golden Software - Surfer, SfMgeoref, R, python, ArcGIS Pro and Leica – Cyclone.
+    **Remote and Proximal Sensing, Geospatial Analysis**
+    I have a strong understanding of the application, uncertainties and limitations of
+    - Structure-from-Motion Photogrammetry, including close-range and UAV data.
+    - Terrestrial LiDAR.
+    - Airborne LiDAR.
+    - Differential GPS survey.
+    I apply this data to quantify structural change in micro- to catchment-scale applications using
+    - Precision and uncertainty analysis.
+    - Data processing software, including Agisoft - PhotoScan, CloudCompare, Golden Software - Surfer, SfMgeoref, R, python, ArcGIS Pro and Leica – Cyclone.
 
-**Data Science**
-- Large dataset management, presentation and analysis (R and Excel).
-- Statistical analysis (R and SPSS).
-- Development of interactive geodatabase webmaps (R:Shiny/Leaflet, ArcGIS Online).
+    **Data Science**
+    - Large dataset management, presentation and analysis (R and Excel).
+    - Statistical analysis (R and SPSS).
+    - Development of interactive geodatabase webmaps (R:Shiny/Leaflet, ArcGIS Online).
 
-**General transferable skills**
-- Dissemination of research to a variety of audiences including public engagement activities and workshop organisation and delivery.
-- Partnership working with government agencies, businesses and other stakeholders.
-- Project management and ability to prioritise workloads to meet deadlines.
-- Proposal writing and costings.
-- COSSH and risk assessments.
-- First Aid at Work training.
-- Full, clean driving licence, including 4WD off-road experience.
+    **General transferable skills**
+    - Dissemination of research to a variety of audiences including public engagement activities and workshop organisation and delivery.
+    - Partnership working with government agencies, businesses and other stakeholders.
+    - Project management and ability to prioritise workloads to meet deadlines.
+    - Proposal writing and costings.
+    - COSSH and risk assessments.
+    - First Aid at Work training.
+    - Full, clean driving licence, including 4WD off-road experience.
 
 # Footer
 footer_show_references: true
