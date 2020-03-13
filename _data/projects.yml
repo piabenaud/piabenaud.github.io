@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   name: SoilErosionMap
   link: https://piabenaud.shinyapps.io/SoilErosionMap
   github: piabenaud/SoilErosionMap
@@ -9,7 +9,7 @@
     
     Users can explore soil erosion observations in the UK and globally though interacting with the maps. Clicking on any of the observations will open a pop-up with information about the record. The colours of the circles can be changed to reflect the soil erosion rate, the study methods and the sampling strategy via the drop down menus in the observation explorer. The plots in the observation explorer change with the data visible on screen - zoom in to see the distribution of erosion rates in a specific area.
 
-- layout: left
+- layout: top-middle
   name: Mires Project (2015-2020)
   #link: crewwww
   #github: sproogen/resume-theme
@@ -21,7 +21,7 @@
     The peatlands of Exmoor and Dartmoor are heavily degraded as a result of erosion and drainage for agricultural improvement. This research provides an evidence base for the effectiveness of moorland restoration, for the Exmoor and Dartmoor Mires restoration projects. Through monitoring vegetation, carbon fluxes and patterns of erosion I contribute to the scientific understanding of habitat function and restoration responses.
 
 
-- layout: left
+- layout: top-middle
   name: Sphagnum Reintroduction Project
   #link: na
   #github: na
@@ -33,7 +33,7 @@
     Despite hydrological success, the physical restoration works carried out on Exmoor have resulted in limited vegetation change, to-date. This project is investigating the viability of sphagnum reintroduction as program to the existing restoration work. I supported the design, establishment and monitoring of the study prior to the commencement of a PhD researcher, and provide ongoing informal PhD supervision.
   
    
-- layout: left
+- layout: top-middle
   name: Piloting a cost-effective framework for monitoring soil erosion in England and Wales
   #link: na
   #github: na
@@ -45,7 +45,7 @@
     Attempts to quantify soil erosion nationally have illustrated that soil erosion can occur in the UK, however, understanding whether or not the UK has a soil erosion problem still remains a question to be answered. This Defra-funded project established a framework for monitoring soil erosion at a national scale, and compared the cost-effectiveness of different monitoring approaches. My contributions included the review and construction of interactive geodatabase and web-map of existing UK-based soil erosion work. I also critically explored the application of novel proximal sensing technologies and tracers for the quantification of soil loss.
  
     
-- layout: left
+- layout: top-middle
   name: Mires Project (2010-2015)
   #link: creww website
   #github: sproogen/resume-theme
@@ -57,7 +57,7 @@
     The project provides an evidence base for the effectiveness of moorland restoration, for the Exmoor and Dartmoor Mires restoration projects. Primarily funded by South West Water, this phase of research largely built an understanding of hydrology, water quality and carbon storage in degraded upland environments. I supported fieldwork, laboratory and data analysis, and report writing across the three research themes.
    
    
-- layout: left
+- layout: top-middle
   name: Impacts of Moorland Restoration on Nutscale Reservoir
   #link: creww website
   #github: sproogen/resume-theme
@@ -69,7 +69,7 @@
     Nutscale Reservoir has suffered negative changes in water quality, increasing the cost to both the supplier (Wessex Water) and consumer. This project sought to understand if there was a link between moorland restoration and the water quality issues. I lead the fieldwork, laboratory and data analysis, and report writing.
        
 
-- layout: left
+- layout: top-middle
   name: Australian Alternative Covers Assessment Program (AACAP)
   #link: creww website
   #github: sproogen/resume-theme
