@@ -5,7 +5,7 @@
   quote: >
     An open access and open source resource for the soil erosion community.
   description: | # this will include new lines to allow paragraphs
-    SoilErosionMap was produced alongside the peer-reviewed publication [Benaud et al. (In review)] (www.exeter.ac.uk) *National-scale geodata describe widespread accelerated soil erosion.* Geoderma
+    SoilErosionMap was produced alongside the peer-reviewed publication Benaud et al. (2020) National-scale geodata describe widespread accelerated soil erosion. *Geoderma*
     
     Users can explore soil erosion observations in the UK and globally though interacting with the maps. Clicking on any of the observations will open a pop-up with information about the record. The colours of the circles can be changed to reflect the soil erosion rate, the study methods and the sampling strategy via the drop down menus in the observation explorer. The plots in the observation explorer change with the data visible on screen - zoom in to see the distribution of erosion rates in a specific area.
 

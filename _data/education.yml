@@ -18,7 +18,9 @@
   #quote: >
 
   description: | # this will include new lines to allow paragraphs
-    Supervised research project within an academic and industry setting. Dissertation title: *A comparative study of vegetation performance on landfill phytocovers in Australia* **(1st Class Hons.)**.
+    **Dissertation title:** *A comparative study of vegetation performance on landfill phytocovers in Australia*
+    Supervised research project within an academic and industry setting. 
+    **(1st Class Hons.)**.
 
 - layout: left
   name: Griffith University
